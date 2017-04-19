@@ -1,0 +1,5 @@
+;!@Install@!UTF-8!
+Title="Chameleon96 Drivers Archive"
+Progress="yes"
+ExecuteFile="dpinst.exe"
+;!@InstallEnd@!
